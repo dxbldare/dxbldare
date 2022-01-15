@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @dxbldare
-- 👀 I’m interested in making visual novels 
-- 🌱 I’m currently learning python 🐍
-- 💞️ I’m looking to collaborate on easier projects because i'm a beginner ^^
+- 🌱 I’m currently learning python 🐍 (snek)
+
 - 📫 How to reach me 
       discord: @the sèance #5878
 
