@@ -1,6 +1,6 @@
 - 🌱 I’m currently learning python 🐍 (snek)
 
-- 📫 How to reach me 
+- 📫 How to reach me: 
       discord: @the sèance #5878
 
 <!---
